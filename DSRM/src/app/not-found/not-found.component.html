@@ -1,0 +1,12 @@
+<div class="main-content">
+	<img src="../../assets/404_error.jpg" alt="404 Page Not Found" class="img-class">
+	<div class="text msg"> 
+		<p><strong>Sorry, we couldn't find what you were looking for</strong></p>
+	</div>
+	<div class="text link">
+		<p *ngIf="path">Why don't you try the <a [routerLink]="path">"{{ path }}"</a> page</p>
+	</div>
+
+</div>
+
+
