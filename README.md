@@ -1,6 +1,6 @@
 # Levenshtein-Dist-Algo
 
-#Use the master branch to checkout the algorithm implementation
+# Use the master branch to checkout the algorithm implementation
 
 Some resources to understand the algorithm:
 
